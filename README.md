@@ -1,4 +1,4 @@
-GK.PIZZA
+##GK.PIZZA
 Welcome to GK.PIZZA, where Great Krusts meet Perfect Pizza! 🍕
 
 About Us
